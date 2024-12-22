@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "City General Hospital",
+    "patientCount": 350,
+    "location": "New York, NY"
+  },
+  {
+    "id": 2,
+    "name": "Kims",
+    "patientCount": 280,
+    "location": "TVM"
+  },
+  {
+    "id": 3,
+    "name": "Sunshine Children's Hospital",
+    "patientCount": 150,
+    "location": "Los Angeles, CA"
+  },
+  {
+    "id": 5,
+    "name": "Oceanview Hospital",
+    "patientCount": 180,
+    "location": "Miami, FL"
+  },
+  {
+    "id": 6,
+    "name": "Nims",
+    "patientCount": 200,
+    "location": "NTA"
+  }
+]
